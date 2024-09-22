@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+mediapipe
+altair<5
+streamlit_webrtc
+streamlit-option-menu
+
